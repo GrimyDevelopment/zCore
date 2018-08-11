@@ -1,0 +1,26 @@
+server:
+  message:
+    permission: "&cYou dont have permissions to use this command!"
+
+settings:
+  help-messages:
+  - "&7&m------------------------------------------------"
+  - "&6&lMineXD Information"
+  - "&7 » &e&lSite: &6www.minexd.com"
+  - "&7 » &e&lTwitter: &6@MineXDcom"
+  - "&7 » &e&lDiscord: &6discord.gg/5aVjHM9"
+  - ""
+  - "&6&lCommon Commands"
+  - "&e/report <player> <reason>&7 - &dReport a player"
+  - "&e/request <reason>&7 - &dRequest assistance"
+  - "&7&m------------------------------------------------"
+  join-messages:
+  - "&7&m------------------------------------------------"
+  - ""
+  - "&e Welcome to &6&lMineXD&e!"
+  - ""
+  - "&7 » &e&lSite: &6www.minexd.com"
+  - "&7 » &e&lTwitter: &6@MineXDcom"
+  - "&7 » &e&lDiscord: &6discord.gg/5aVjHM9"
+  - ""
+  - "&7&m------------------------------------------------"
